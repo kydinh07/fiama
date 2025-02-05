@@ -10,12 +10,12 @@
 
 UI
 ## Home Page
-![image](https://github.com/duongkz365/fiama/assets/87511212/a9dffa1b-67fc-41ce-b5ef-d104c68b12e2)
-![image](https://github.com/duongkz365/fiama/assets/87511212/e3d2f593-05a5-4b9d-a9c0-111baa0baea9)
-![image](https://github.com/duongkz365/fiama/assets/87511212/ef3c49a3-0882-45f9-9471-897cefd6e07c)
+
 
 ## Product Page
-![image](https://github.com/duongkz365/fiama/assets/87511212/c12c936e-d798-4b19-9fad-3d2a80df0981)
+![home_page](https://github.com/user-attachments/assets/328dca71-5df3-46a5-b07c-102b34d27956)
+![home_page-1](https://github.com/user-attachments/assets/cb8e7eaf-bd1a-4d38-a84b-2b76ce15b6a0)
+![home_page-2](https://github.com/user-attachments/assets/10d3da96-86c2-4980-8ab1-49c4b94a4053)
 
 
 ## Account Page
