@@ -16,8 +16,7 @@ UI
 
 
 ## Product Page
-![home_page-1](https://github.com/user-attachments/assets/cb8e7eaf-bd1a-4d38-a84b-2b76ce15b6a0)
-![home_page-2](https://github.com/user-attachments/assets/10d3da96-86c2-4980-8ab1-49c4b94a4053)
+![image](https://github.com/duongkz365/fiama/assets/87511212/c12c936e-d798-4b19-9fad-3d2a80df0981)
 
 
 ## Account Page
