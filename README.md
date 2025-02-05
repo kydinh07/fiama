@@ -16,22 +16,26 @@ UI
 
 
 ## Product Page
-![image](https://github.com/duongkz365/fiama/assets/87511212/c12c936e-d798-4b19-9fad-3d2a80df0981)
+![product_page](https://github.com/user-attachments/assets/b4a3e480-58f9-462d-899f-36faefda0a27)
+
 
 
 ## Account Page
-![image](https://github.com/duongkz365/fiama/assets/87511212/dd7bae89-0b8a-473a-8e3f-7fa28b61ce9d)
+![account_page](https://github.com/user-attachments/assets/16bbc2e8-96a2-4090-a76e-5c18248672b1)
+
 
 
 
 ## Cart Page
-![image](https://github.com/duongkz365/fiama/assets/87511212/ea82f16c-c722-4bae-805c-272ce51ea772)
+
+![cart_page](https://github.com/user-attachments/assets/d9f833f1-d5b0-454a-9911-90bbb2225fd5)
 
 
 
 
 ## Structure 
-![image](https://github.com/duongkz365/fiama/assets/87511212/d571492f-729d-44ce-b8c9-bb9e246b00b4)
+![structure](https://github.com/user-attachments/assets/07614c85-f1d5-4af7-a797-9f9c4d5bfe87)
+
 
 
 
