@@ -10,10 +10,12 @@
 
 UI
 ## Home Page
+![home_page](https://github.com/user-attachments/assets/ab0e3de9-47c5-46b7-b7d6-9bcdd4b2269d)
+![home_page-1](https://github.com/user-attachments/assets/1b36a020-3697-4e44-8756-020659a32d5d)
+![home_page-2](https://github.com/user-attachments/assets/63b35d81-84c4-47be-b8f8-1f4112239caf)
 
 
 ## Product Page
-![home_page](https://github.com/kydinh07/fiama/assets/328dca71-5df3-46a5-b07c-102b34d27956)
 ![home_page-1](https://github.com/user-attachments/assets/cb8e7eaf-bd1a-4d38-a84b-2b76ce15b6a0)
 ![home_page-2](https://github.com/user-attachments/assets/10d3da96-86c2-4980-8ab1-49c4b94a4053)
 
